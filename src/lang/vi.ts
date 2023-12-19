@@ -22,7 +22,7 @@ const vi = {
     social_networks: [
       {
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        link: "mailto:digitalreadyvn@gmail.com",
       },
       {
         icon: "SiLinkedin",
@@ -32,14 +32,10 @@ const vi = {
         icon: "SiGithub",
         link: "https://github.com/howznguyen",
       },
-      {
-        icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
-      },
-      {
-        icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
-      },
+      // {
+      //   icon: "SiFacebook",
+      //   link: "https://www.facebook.com/howznguyen",
+      // },
       
     ],
     develop_by: "Phát triển bởi ",
